@@ -36,12 +36,13 @@ An interactive Power BI dashboard developed to analyze financial transactions, i
 
 [View Dashboard Report](./ey%20dashboard.pdf)
 
-## Project Structure
+## Files
 
-* Dashboard (.pbix)
-* Cleaned Audit Dataset
-* Dashboard Screenshots
-* Documentation
+| File | Description |
+|------|-------------|
+| Financial_Risk_Audit_Dashboard.pbix | Power BI dashboard source file |
+| Financial_Risk_Audit_Dashboard.pdf | Dashboard report export |
+| audit_cleaned_dataset.xlsx | Dataset used for analysis |
 
 ## Business Insights
 
