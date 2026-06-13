@@ -34,7 +34,7 @@ An interactive Power BI dashboard developed to analyze financial transactions, i
 
 ## Dashboard Preview
 
-![Dashboard](Images/dashboard_overview.png)
+[View Dashboard Report](./ey%20dashboard.pdf)
 
 ## Project Structure
 
